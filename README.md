@@ -30,5 +30,12 @@ npx tailwindcss -i [InputFile] -o [OutputFile] --watch
 - Make output CSS with npx command
 
 
+
+## Visual Studio Code (Extensions)
+- Live Server (local webserver)
+- Tailwind CSS IntelliSense
+
+
 ## Resources
 - Hero Icons (https://heroicons.com)
+- Avatars (https://www.pravatar.cc)
