@@ -1,7 +1,8 @@
 #!/bin/bash
 
 declare -a dirs=(
-    Tesla/tailwind-css3/node_modules
+    Instagram/node_modules
+    Tesla/node_modules
 )
 
 echo "Directories to be removed:"
