@@ -9,7 +9,7 @@ Link: https://www.packtpub.com/product/mastering-tailwind-css-30-build-two-dynam
 
 
 ## Prerequisites
-- NodeJS (> 10.2.2)
+- NodeJS (>= 10.13)
 
 
 ## New Project
